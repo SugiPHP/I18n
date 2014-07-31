@@ -1,0 +1,22 @@
+{
+    "name": "sugiphp/i18n",
+    "type": "library",
+    "description": "SugiPHP i18n",
+    "keywords": ["i18n", "gettext", "translation", "internationalization"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Plamen Popov",
+            "email": "tzappa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "SugiPHP\\I18n\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
