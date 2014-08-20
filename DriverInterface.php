@@ -17,6 +17,7 @@ interface DriverInterface
 	 * Set locale information.
 	 *
 	 * @param string $locale
+	 * @return string
 	 */
 	public function setLocale($locale);
 
@@ -49,7 +50,7 @@ interface DriverInterface
 	 * @param  string $msgid1
 	 * @param  string $msgid2
 	 * @param  integer $n
-	 * @return Returns correct plural form of message identified by msgid1 and msgid2 for count n.
+	 * @return string Correct plural form of message identified by msgid1 and msgid2 for count n.
 	 */
 	public function ngettext($msgid1, $msgid2, $n);
 

@@ -50,7 +50,7 @@ class Gettext
 	public function setDriver($driver)
 	{
 		if (!$driver instanceof DriverInterface) {
-			throw new \Exception("Driver must be instanceof DriverInterface");
+			throw new \Exception("Driver must be of type ".__NAMESPACE__."\DriverInterface");
 		}
 
 		$this->driver = $driver;
@@ -107,6 +107,15 @@ class Gettext
 		return $message;
 	}
 
+	/**
+	 * Correct plural form of message identified by msgid1 and msgid2 for count n.
+	 * Plural version of gettext()
+	 *
+	 * @param  string $msgid1
+	 * @param  string $msgid2
+	 * @param  integer $n
+	 * @return string
+	 */
 	public function ngettext($msgid1, $msgid2, $n)
 	{
 		return $this->driver->ngettext($msgid1, $msgid2, $n);

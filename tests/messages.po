@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. home page title
+msgid "HOMEPAGE_TITLE"
+msgstr "tzappa.net"
+
+#. home page description
+msgid "HOMEPAGE_DESCRIPTION"
+msgstr "Web Projects"
+
+#. password generator
+msgid "PASSWORDGENERATOR_TITLE"
+msgstr "Генератор на пароли"
+
+#. password generator
+msgid "PASSWORDGENERATOR_DESCRIPTION"
+msgstr "Генерирайте солидни и трудни за разбиване пароли"
+
+#. password generator
+msgid "Symbols"
+msgstr "Символи"
+
+#. password generator
+msgid "Uppercase"
+msgstr "Главни букви"
+
+#. password generator
+msgid "Lowercase"
+msgstr "Малки букви"
+
+#. password generator
+msgid "Digits"
+msgstr "Цифри"
+
+#. password generator
+msgid "Length"
+msgstr "Дължина на паролата"
+
+#. password generator
+msgid "Generate"
+msgstr "Генерирай"
+
+#. password generator
+msgid "Password Characteristics"
+msgstr "Изисквания към паролите"
+
+#. password generator
+msgid "Generated Passwords"
+msgstr "Генерирани пароли"
+
+
+#. chessclock
+msgid "CHESSCLOCK_TITLE"
+msgstr "Онлайн шах часовник"
+
+#. chessclock
+msgid "CHESSCLOCK_DESCRIPTION"
+msgstr "Онлайн шах часовник"
+
+#. chessclock
+msgid "WHITE_UPPER"
+msgstr "БЕЛИ"
+
+#. chessclock
+msgid "BLACK_UPPER"
+msgstr "ЧЕРНИ"
+
+#. chessclock
+msgid "BLACK"
+msgstr "Черни"
+
+#. chessclock
+msgid "WHITE"
+msgstr "Бели"
+
+#. chessclock
+msgid "SET"
+msgstr "Настройка"
+
+#. chessclock
+msgid "PAUSE"
+msgstr "Пауза"
+
+#. chessclock
+msgid "RESET"
+msgstr "Нулирай"
+
+
+
+#. domain
+msgid "DOMAIN_TITLE"
+msgstr "Проверка на домейни"
+
+#. domain
+msgid "DOMAIN_DESCRIPTION"
+msgstr "Проверете дали даден домейн е зает или не."
+
+#. domain
+msgid "DOMAIN_INFO"
+msgstr "За да разберете дали даден домейн е свободен или е зает, напишете името на домейна без разширението. Изберете TLD разширенията, които ви интересуват и натиснете бутона Проверка."
+
+#. domain
+msgid "ENTERDOMAIN"
+msgstr "Въведете желания домейн"
+
+#. domain
+msgid "SELECTTLD"
+msgstr "Изберете TLD"
+
+#. domain
+msgid "FREE"
+msgstr "Свободен"
+
+#. domain
+msgid "REGISTRED"
+msgstr "Зает"
+
+#. domain
+msgid "ERROR"
+msgstr "Грешка"
+
+#. domain
+msgid "SHOW"
+msgstr "виж"
+
+#. domain
+msgid "ALTSHOW"
+msgstr "Отвори сайта в нов прозорец"
+
+#. domain
+msgid "CHECK"
+msgstr "Проверка"
+
+
+
+#. hash
+msgid "HASH_TITLE"
+msgstr "MD5 и SHA1 - кодиране и декодиране"
+
+#. hash
+msgid "HASH_DESCRIPTION"
+msgstr "MD5 и SHA1 кодиране и опит за декодиране на текстов низ"
+
+#. hash
+msgid "HASH_INFO"
+msgstr "Обикновено паролите се съхраняват в базите данни кодирани. Това е с цел безопасност на иформацията. Ако случайно някой получи нерегламентиран достъп до базата, паролите са донякъде защитени. С този инструмент може да видите, как дадена парола ще изглежда в БД, ако е била кодирана с MD5. Декодера ще се опита да намери паролата при зададен MD5 низ."
+
+#. hash
+msgid "phrase"
+msgstr "Текст"
+
+#. hash
+msgid "hash"
+msgstr "MD5/SHA1 hash"
+
+#. hash
+msgid "MD5"
+msgstr "MD5 hash"
+
+#. hash
+msgid "SHA1"
+msgstr "SHA1 hash"
+
+#. hash
+msgid "ENCODE"
+msgstr "Кодирай"
+
+#. hash
+msgid "ENCODER"
+msgstr "Кодер"
+
+#. hash
+msgid "DECODE"
+msgstr "Декодирай"
+
+#. hash
+msgid "DECODER"
+msgstr "Декодер"
+
+#. hash
+msgid "DBCOUNT"
+msgstr "брой познати MD5/SHA1 <strong>%s</strong> и нарастват..."
+
+#. hash
+msgid "ERR1"
+msgstr "Грешен MD5/SHA1 hash"
+
+#. hash
+msgid "ERR2"
+msgstr "Посоченият MD5 hash не фигурира в базата от данни."
+
+#. hash
+msgid "ERR3"
+msgstr "Посоченият SHA1 hash не фигурира в базата от данни."
+
+
+
+#. converter
+msgid "CONVERTER_TITLE"
+msgstr "Преобразувател на мерни единици"
+
+#. converter
+msgid "CONVERTER_DESCRIPTION"
+msgstr "Онлайн конвертор - преобразувател от една мерна единица към друга"
+
+#. converter
+msgid "VERSION"
+msgstr "Web version"
+
+#. converter
+msgid "COPYRIGHT"
+msgstr "Copyright &copy; 2006,2012 tzappa.net"
+
+#. converter
+msgid "NOTE"
+msgstr "Забележка:"
+
+#. converter
+msgid "NOTE1"
+msgstr "Авторът не носи отговорност за достоверността на данните при преминаване от една мерна единица в друга!"
+
+#. converter
+msgid "NOTE2"
+msgstr "Точността при пресмятанията е ограничена до 8-мия знак."
+
+#. converter
+msgid "CONTACT"
+msgstr "За контакт:"
+
+#. converter
+msgid "SEND_MAILS_TO"
+msgstr "Пишете ми на адрес:"
